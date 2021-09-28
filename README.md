@@ -1,2 +1,0 @@
-# MyTemplateCodes
-configure files
